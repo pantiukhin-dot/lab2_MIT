@@ -1,0 +1,8 @@
+﻿.vs/
+.vsconfig
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.vspscc
+*.vssscc

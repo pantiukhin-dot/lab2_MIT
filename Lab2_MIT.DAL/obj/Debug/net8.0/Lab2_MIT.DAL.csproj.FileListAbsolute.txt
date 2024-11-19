@@ -1,0 +1,14 @@
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.AssemblyInfoInputs.cache
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.AssemblyInfo.cs
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.csproj.CoreCompileInputs.cache
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.csproj.AssemblyReference.cache
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\bin\Debug\net8.0\Lab2_MIT.DAL.deps.json
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\bin\Debug\net8.0\Lab2_MIT.DAL.runtimeconfig.json
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\bin\Debug\net8.0\Lab2_MIT.DAL.dll
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\bin\Debug\net8.0\Lab2_MIT.DAL.pdb
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.dll
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\refint\Lab2_MIT.DAL.dll
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.pdb
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\Lab2_MIT.DAL.genruntimeconfig.cache
+C:\Users\stere\source\repos\Solution\Lab2_MIT.DAL\obj\Debug\net8.0\ref\Lab2_MIT.DAL.dll

@@ -1,0 +1,6 @@
+@Lab2_MIT_HostAddress = http://localhost:5289
+
+GET {{Lab2_MIT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
